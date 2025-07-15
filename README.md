@@ -22,8 +22,6 @@ A beautiful and interactive **Weather App** built using only **HTML, CSS, and Ja
 <p align="center">
   <img src="./weather app image.png" alt="Weather App Screenshot" width="450"/>
 </p>
-> Screenshot Example (optional)_
-
 
 ### ▶️ Run the App
 
@@ -58,5 +56,5 @@ This project is open source and free to use!
 
 ## 🙌 Author
 
-Made with ❤️ by **[KARTHIKEYAN D]**
+Made with ❤️ by **KARTHIKEYAN D**
 
