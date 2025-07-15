@@ -16,7 +16,13 @@ A beautiful and interactive **Weather App** built using only **HTML, CSS, and Ja
 
 ## 📸 Preview
 
-> 💡 _Live Preview Screenshot Example (optional)_
+> 💡[ Live Preview ](https://karthikeyan1507.github.io/weather-app/)
+> Here’s a quick look at the UI of the Weather App:
+
+<p align="center">
+  <img src="./weather app image.png" alt="Weather App Screenshot" width="450"/>
+</p>
+> Screenshot Example (optional)_
 
 
 ### ▶️ Run the App
